@@ -159,12 +159,12 @@ export default function Footer() {
             © 2025 Walnut Health Ltd. All Rights Reserved
           </p>
           <a
-            href="https://www.perplexity.ai/computer"
+            href="https://www.spectrlabs.io"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-pplx-link"
           >
-            Created with Perplexity Computer
+            Created with Spectr Labs - MVP Studio
           </a>
         </div>
       </div>
