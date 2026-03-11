@@ -121,7 +121,3 @@ Typography:
 npm run build
 npm run start
 ```
-
----
-
-*Built with [Perplexity Computer](https://www.perplexity.ai/computer)*
