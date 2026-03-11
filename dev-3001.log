@@ -1,0 +1,33 @@
+
+> walnut-next-app@0.1.0 dev
+> next dev --hostname 0.0.0.0 --port 3001 --webpack
+
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/user/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /home/user/workspace/walnut-next-app/package-lock.json
+
+▲ Next.js 16.1.6 (webpack)
+- Local:         http://localhost:3001
+- Network:       http://0.0.0.0:3001
+
+✓ Starting...
+✓ Ready in 1286ms
+ GET / 200 in 3.3s (compile: 2.3s, render: 1013ms)
+ GET /onboarding 200 in 2.0s (compile: 1886ms, render: 156ms)
+ GET /matches 200 in 624ms (compile: 362ms, render: 263ms)
+ GET /community 200 in 551ms (compile: 339ms, render: 212ms)
+ GET /providers 200 in 510ms (compile: 371ms, render: 139ms)
+ GET /companies 200 in 598ms (compile: 401ms, render: 197ms)
+ GET /api/matches 200 in 708ms (compile: 686ms, render: 23ms)
+ GET / 200 in 204ms (compile: 48ms, render: 157ms)
+ GET / 200 in 176ms (compile: 4ms, render: 171ms)
+⚠ Cross origin request detected from 127.0.0.1 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET /onboarding 200 in 108ms (compile: 36ms, render: 71ms)
+ GET /onboarding 200 in 63ms (compile: 3ms, render: 59ms)
+ GET /onboarding 200 in 71ms (compile: 5ms, render: 66ms)
+ GET /onboarding 200 in 198ms (compile: 134ms, render: 64ms)
+ GET /onboarding 200 in 128ms (compile: 8ms, render: 120ms)
